@@ -14,3 +14,8 @@ echo ""
 echo "/boot direktoriyasındakı fayllar:"
 ls -la /boot
 echo ""
+
+# /boot direktoriyasındakı faylları (gizli fayllarla birlikdə) göstər
+echo "/boot direktoriyasındakı fayllar:"
+ls -la /boot
+echo ""
