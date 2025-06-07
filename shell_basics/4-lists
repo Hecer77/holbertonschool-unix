@@ -19,3 +19,4 @@ echo ""
 echo "/boot direktoriyasındakı fayllar:"
 ls -la /boot
 echo ""
+ls -la && ls -la .. && ls -la /boot
