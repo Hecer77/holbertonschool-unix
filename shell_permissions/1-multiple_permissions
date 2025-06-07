@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Bu skript 'hello' adlı faylın icazələrini dəyişdirir.
+# Sahibə və qrup sahibinə icra icazəsi, digərlərinə isə oxuma icazəsi verir.
+chmod ug+x,o+r hello
