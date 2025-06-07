@@ -1,22 +1,2 @@
 #!/bin/bash
-
-# Cari direktoriyadakı faylları (gizli fayllarla birlikdə) göstər
-echo "Cari direktoriyadakı fayllar:"
-ls -la
-echo ""
-
-# Bir üst direktoriyadakı faylları (gizli fayllarla birlikdə) göstər
-echo "Bir üst direktoriyadakı fayllar:"
-ls -la ..
-echo ""
-
-# /boot direktoriyasındakı faylları (gizli fayllarla birlikdə) göstər
-echo "/boot direktoriyasındakı fayllar:"
-ls -la /boot
-echo ""
-
-# /boot direktoriyasındakı faylları (gizli fayllarla birlikdə) göstər
-echo "/boot direktoriyasındakı fayllar:"
-ls -la /boot
-echo ""
 ls -la && ls -la .. && ls -la /boot
